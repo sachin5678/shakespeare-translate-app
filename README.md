@@ -1,2 +1,2 @@
 # shakespeare translate
- english to shakespeare language
+ It translates the plain english to Shakespeare's tone ...
